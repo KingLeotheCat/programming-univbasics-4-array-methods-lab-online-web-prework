@@ -23,5 +23,6 @@ ez=["wow", "I", "am", "really", "learning", "arrays!"]
 end
 
 def using_size(array)
-
+ez=["wow", "I", "am", "really", "learning", "arrays!"]
+  ez.size
 end
