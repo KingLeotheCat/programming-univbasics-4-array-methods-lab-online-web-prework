@@ -19,7 +19,7 @@ end
 
 def using_last(array)
 ez=["wow", "I", "am", "really", "learning", "arrays!"]
-  ez.reverse
+  ez.last
 end
 
 def using_size(array)
