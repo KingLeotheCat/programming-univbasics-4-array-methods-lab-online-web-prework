@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
   famous_cats=["a", "b", "c", "d"]
-  famous_cats().sort!
+  famous_cats.sort!
 end
 
 def using_reverse(array)
