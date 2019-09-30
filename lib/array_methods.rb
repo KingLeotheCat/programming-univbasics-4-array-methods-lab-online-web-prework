@@ -8,7 +8,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-
+  ez=["wow", "I", "am", "really", "learning", "arrays!"]
+  
 end
 
 def using_first(array)
