@@ -13,11 +13,13 @@ def using_reverse(array)
 end
 
 def using_first(array)
-
+ez=["wow", "I", "am", "really", "learning", "arrays!"]
+  ez.first
 end
 
 def using_last(array)
-
+ez=["wow", "I", "am", "really", "learning", "arrays!"]
+  ez.reverse
 end
 
 def using_size(array)
