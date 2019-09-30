@@ -9,7 +9,7 @@ end
 
 def using_reverse(array)
   ez=["wow", "I", "am", "really", "learning", "arrays!"]
-  
+  ez.reverse
 end
 
 def using_first(array)
